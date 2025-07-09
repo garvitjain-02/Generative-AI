@@ -1,0 +1,48 @@
+# LangChain Core
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+# Core ML framework
+torch>=2.0.0
+
+# Hugging Face Transformers and Hub
+transformers>=4.40.0
+huggingface_hub>=0.23.0
+
+# LangChain integrations
+langchain>=0.1.14
+langchain-community>=0.0.30
+langchainhub>=0.1.15
+
+# For using HuggingFacePipeline
+sentencepiece
+accelerate
+
+# Optional but useful
+scipy
+requests
+
+sentence-transformers
+streamlit
