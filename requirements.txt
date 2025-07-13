@@ -47,3 +47,4 @@ requests
 sentence-transformers
 streamlit
 pydantic
+grandalf
