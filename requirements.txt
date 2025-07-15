@@ -50,3 +50,4 @@ pydantic
 grandalf
 beautifulsoup4
 pypdf
+langchain-experimental
