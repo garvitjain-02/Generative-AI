@@ -48,3 +48,5 @@ sentence-transformers
 streamlit
 pydantic
 grandalf
+beautifulsoup4
+pypdf
